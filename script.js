@@ -48,7 +48,7 @@ function showError(type) {
       msg = "⚠️ Unable to load weather data. Try again later.";
       break;
     default:
-      msg = "⚠️ Something went wrong. Please try again.";
+      msg = "⚠️ Something went wrong. Try again.";
   }
 
   errorMessage.textContent = msg;
