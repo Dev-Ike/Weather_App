@@ -25,9 +25,9 @@ LICENSE
 script.js
 styles.css
 images/
-    gradient.png
     hero-img.png
     location.png
+    screenshot.png
     search.png
     sunlight.png
 ```
